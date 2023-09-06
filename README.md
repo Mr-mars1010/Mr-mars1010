@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mr-mars1010
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Data Science
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m a Self-learner and love to learn new things
 - 📫 How to reach me ...
 
 <!---
